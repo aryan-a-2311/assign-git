@@ -1,0 +1,8 @@
+A1. The gitignore file tells Git what files to ignore when you are commiting your the project to a GitHub repository. The gitignore file for a Java project should include .jar .war and .ear.
+
+A2. Fast-forwarding is moving the tip of your main branch forward to the end of your test/feature branch merges. This cleanly integrates your feature branch back into your main branch while maintaining the sequential order of all contributions made there.
+
+
+A3. We should have different branches to work parallely on any project. These branches can then be merged into the main branch to integrate them into your working diretory. Once it is merged, it is available for other contributors to access.
+
+A4. Users can have as many remote Git repositories as required for the project
